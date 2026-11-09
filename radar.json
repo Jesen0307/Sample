@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "adduser",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.153ubuntu1."
+  },
+  {
+    "name": "antlr4-runtime",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 4.13.2."
+  },
+  {
+    "name": "Apache Tomcat",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 10.1.55. Modul: tomcat-embed-core, tomcat-embed-el, tomcat-embed-websocket."
+  },
+  {
+    "name": "apt",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.2.0."
+  },
+  {
+    "name": "aspectjweaver",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.9.25.1."
+  },
+  {
+    "name": "base-files",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 14ubuntu6.2."
+  },
+  {
+    "name": "base-passwd",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.6.8."
+  },
+  {
+    "name": "bash",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 5.3-2ubuntu1."
+  },
+  {
+    "name": "bcprov-jdk18on",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.84."
+  },
+  {
+    "name": "bsdutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "byte-buddy",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.17.8."
+  },
+  {
+    "name": "ca-certificates",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 20260816ubuntu0.26.04.1."
+  },
+  {
+    "name": "commons-codec",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.15."
+  },
+  {
+    "name": "commons-csv",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.10.0."
+  },
+  {
+    "name": "commons-fileupload",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.6.0."
+  },
+  {
+    "name": "commons-io",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.14.0."
+  },
+  {
+    "name": "commons-lang3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.18.0."
+  },
+  {
+    "name": "commons-text",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.12.0."
+  },
+  {
+    "name": "coreutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 9.5-1ubuntu2+0.0.0~ubuntu25."
+  },
+  {
+    "name": "coreutils-from-uutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.0.0~ubuntu25."
+  },
+  {
+    "name": "curl",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 8.18.0-1ubuntu2.8."
+  },
+  {
+    "name": "dash",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.5.12-12ubuntu3."
+  },
+  {
+    "name": "debconf",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.5.92."
+  },
+  {
+    "name": "debianutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 5.23.2build1."
+  },
+  {
+    "name": "diffutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:3.12-1ubuntu0.1."
+  },
+  {
+    "name": "dirmngr",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "dpkg",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.23.7ubuntu1."
+  },
+  {
+    "name": "e2fsprogs",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.47.2-3ubuntu4."
+  },
+  {
+    "name": "Eclipse Angus (Jakarta Mail)",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.3, 2.0.5. Modul: angus-activation, jakarta.mail."
+  },
+  {
+    "name": "facade-schema",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.0.3."
+  },
+  {
+    "name": "findutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 4.10.0-3build2."
+  },
+  {
+    "name": "fontconfig",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.17.1-3ubuntu1."
+  },
+  {
+    "name": "fontconfig-config",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.17.1-3ubuntu1."
+  },
+  {
+    "name": "fonts-dejavu-core",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.37-8build1."
+  },
+  {
+    "name": "fonts-dejavu-mono",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.37-8build1."
+  },
+  {
+    "name": "gcc-16-base",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 16-20260322-1ubuntu1."
+  },
+  {
+    "name": "github.com/canonical/go-flags",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230403090104-105d09a091b8."
+  },
+  {
+    "name": "github.com/canonical/pebble",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.33.3-0.20261021134118-f036f355de35."
+  },
+  {
+    "name": "github.com/canonical/x-go",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230522092633-7947a7587f5b."
+  },
+  {
+    "name": "github.com/GehirnInc/crypt",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230320061759-8cc1b52080c5."
+  },
+  {
+    "name": "github.com/gorilla/websocket",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.5.3."
+  },
+  {
+    "name": "gnu-coreutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 9.7-3ubuntu2.1."
+  },
+  {
+    "name": "gnupg",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "golang.org/x/sys",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.48.0."
+  },
+  {
+    "name": "golang.org/x/term",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.46.0."
+  },
+  {
+    "name": "gopkg.in/tomb.v2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v2.0.0-20161208151619-d5d1b5820637."
+  },
+  {
+    "name": "gopkg.in/yaml.v2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v2.4.0."
+  },
+  {
+    "name": "gopkg.in/yaml.v3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v3.0.1."
+  },
+  {
+    "name": "gpg",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "gpg-agent",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "gpgconf",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "gpgsm",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "gpgv",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4.8-4ubuntu3.1."
+  },
+  {
+    "name": "grep",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.12-1."
+  },
+  {
+    "name": "gzip",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.14-1~exp2ubuntu1.1."
+  },
+  {
+    "name": "h2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.3.232."
+  },
+  {
+    "name": "Hibernate ORM",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.6.53.Final, 7.0.3.Final. Modul: hibernate-commons-annotations, hibernate-core."
+  },
+  {
+    "name": "HikariCP",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.3.3."
+  },
+  {
+    "name": "hostname",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.25build1."
+  },
+  {
+    "name": "init-system-helpers",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.69."
+  },
+  {
+    "name": "Jackson",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.7.3, 2.21, 2.21.5. Modul: classmate, jackson-annotations, jackson-bom, jackson-core, jackson-databind, jackson-datatype-jdk8, jackson-datatype-jsr310, jackson-module-parameter-names."
+  },
+  {
+    "name": "Jakarta EE",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.1, 2.1.1, 2.1.4, 3.1.0, 4.0.5. Modul: jakarta.activation-api, jakarta.annotation-api, jakarta.inject-api, jakarta.persistence-api, jakarta.transaction-api, jakarta.xml.bind-api."
+  },
+  {
+    "name": "jandex",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.2.0."
+  },
+  {
+    "name": "JAXB",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 4.0.9, 4.1.2. Modul: istack-commons-runtime, jaxb-core, jaxb-runtime, txw2."
+  },
+  {
+    "name": "jboss-logging",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.6.3.Final."
+  },
+  {
+    "name": "jcip-annotations",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.0-1."
+  },
+  {
+    "name": "json",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 20231013."
+  },
+  {
+    "name": "libacl1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.3.2-2."
+  },
+  {
+    "name": "libapt-pkg7.0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.2.0."
+  },
+  {
+    "name": "libassuan9",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.0.2-2build1."
+  },
+  {
+    "name": "libattr1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:2.5.2-4ubuntu0.1."
+  },
+  {
+    "name": "libaudit-common",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.1.2-1ubuntu0.1."
+  },
+  {
+    "name": "libaudit1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.1.2-1ubuntu0.1."
+  },
+  {
+    "name": "libblkid1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "libbrotli1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.2.0-3ubuntu0.1."
+  },
+  {
+    "name": "libbsd0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.12.2-2build2."
+  },
+  {
+    "name": "libbz2-1.0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.0.8-6ubuntu0.1."
+  },
+  {
+    "name": "libc-bin",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.43-2ubuntu2.4."
+  },
+  {
+    "name": "libc-gconv-modules-extra",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.43-2ubuntu2.4."
+  },
+  {
+    "name": "libc6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.43-2ubuntu2.4."
+  },
+  {
+    "name": "libcap-ng0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.8.5-4build5."
+  },
+  {
+    "name": "libcom-err2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.47.2-3ubuntu4."
+  },
+  {
+    "name": "libcrypt1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.5.1-1."
+  },
+  {
+    "name": "libcurl4t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 8.18.0-1ubuntu2.8."
+  },
+  {
+    "name": "libdb5.3t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 5.3.28+dfsg2-10ubuntu1."
+  },
+  {
+    "name": "libdebconfclient0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.280ubuntu1."
+  },
+  {
+    "name": "libexpat1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.7.4-1ubuntu0.2."
+  },
+  {
+    "name": "libext2fs2t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.47.2-3ubuntu4."
+  },
+  {
+    "name": "libffi8",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.5.2-4."
+  },
+  {
+    "name": "libfontconfig1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.17.1-3ubuntu1."
+  },
+  {
+    "name": "libfreetype6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.14.2+dfsg-1ubuntu0.2."
+  },
+  {
+    "name": "libgcc-s1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 16-20260322-1ubuntu1."
+  },
+  {
+    "name": "libgcrypt20",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.12.0-2ubuntu1.1."
+  },
+  {
+    "name": "libgmp10",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2:6.3.0+dfsg-5ubuntu2."
+  },
+  {
+    "name": "libgnutls30t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.8.12-2ubuntu1.1."
+  },
+  {
+    "name": "libgpg-error0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.58-2."
+  },
+  {
+    "name": "libgssapi-krb5-2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.22.1-2ubuntu4.1."
+  },
+  {
+    "name": "libhogweed6t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.10.2-1."
+  },
+  {
+    "name": "libidn2-0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.3.8-4build1."
+  },
+  {
+    "name": "libk5crypto3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.22.1-2ubuntu4.1."
+  },
+  {
+    "name": "libkeyutils1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.6.3-6ubuntu3."
+  },
+  {
+    "name": "libkrb5-3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.22.1-2ubuntu4.1."
+  },
+  {
+    "name": "libkrb5support0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.22.1-2ubuntu4.1."
+  },
+  {
+    "name": "libksba8",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.6.7-2build1."
+  },
+  {
+    "name": "libldap-common",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.6.10+dfsg-1ubuntu5."
+  },
+  {
+    "name": "libldap2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.6.10+dfsg-1ubuntu5."
+  },
+  {
+    "name": "liblz4-1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.10.0-8."
+  },
+  {
+    "name": "liblzma5",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 5.8.3-1ubuntu0.1."
+  },
+  {
+    "name": "libmd0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.1.0-2build4."
+  },
+  {
+    "name": "libmount1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "libncursesw6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 6.6+20251231-1."
+  },
+  {
+    "name": "libnettle8t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.10.2-1."
+  },
+  {
+    "name": "libnghttp2-14",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.68.0-2ubuntu0.2."
+  },
+  {
+    "name": "libnpth0t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.8-3build1."
+  },
+  {
+    "name": "libp11-kit0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.26.2-2."
+  },
+  {
+    "name": "libpam-modules",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.7.0-5ubuntu3.2."
+  },
+  {
+    "name": "libpam-modules-bin",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.7.0-5ubuntu3.2."
+  },
+  {
+    "name": "libpam-runtime",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.7.0-5ubuntu3.2."
+  },
+  {
+    "name": "libpam0g",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.7.0-5ubuntu3.2."
+  },
+  {
+    "name": "libpcre2-8-0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 10.46-1build1."
+  },
+  {
+    "name": "libpng16-16t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.6.57-1ubuntu0.1."
+  },
+  {
+    "name": "libproc2-0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2:4.0.4-9ubuntu1."
+  },
+  {
+    "name": "libpsl5t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.21.2-1.1build2."
+  },
+  {
+    "name": "libreadline8t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 8.3-4."
+  },
+  {
+    "name": "librtmp1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.4+20151223.gitfa8646d.1-3."
+  },
+  {
+    "name": "libsasl2-2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.1.28+dfsg1-9ubuntu3."
+  },
+  {
+    "name": "libsasl2-modules-db",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.1.28+dfsg1-9ubuntu3."
+  },
+  {
+    "name": "libseccomp2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.6.0-2ubuntu5."
+  },
+  {
+    "name": "libselinux1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.9-4build1."
+  },
+  {
+    "name": "libsemanage-common",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.9-1build1."
+  },
+  {
+    "name": "libsemanage2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.9-1build1."
+  },
+  {
+    "name": "libsepol2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.9-2."
+  },
+  {
+    "name": "libsmartcols1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "libsqlite3-0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.46.1-9ubuntu0.3."
+  },
+  {
+    "name": "libss2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.47.2-3ubuntu4."
+  },
+  {
+    "name": "libssh2-1t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.11.1-1ubuntu0.26.04.4."
+  },
+  {
+    "name": "libssl3t64",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.5.5-1ubuntu3.7."
+  },
+  {
+    "name": "libstdc++6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 16-20260322-1ubuntu1."
+  },
+  {
+    "name": "libsystemd0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 259.9-0ubuntu0.1."
+  },
+  {
+    "name": "libtasn1-6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 4.21.0-2."
+  },
+  {
+    "name": "libtinfo6",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 6.6+20251231-1."
+  },
+  {
+    "name": "libudev1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 259.9-0ubuntu0.1."
+  },
+  {
+    "name": "libunistring5",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.3-2build1."
+  },
+  {
+    "name": "libuuid1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "libxxhash0",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.8.3-2build1."
+  },
+  {
+    "name": "libzstd1",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.5.7+dfsg-3."
+  },
+  {
+    "name": "locales",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.43-2ubuntu2.4."
+  },
+  {
+    "name": "Log4j2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.25.4. Modul: log4j-api, log4j-core, log4j-jul, log4j-slf4j2-impl."
+  },
+  {
+    "name": "login",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.16.0-2+really2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "login.defs",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.17.4-2ubuntu3."
+  },
+  {
+    "name": "logsave",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.47.2-3ubuntu4."
+  },
+  {
+    "name": "mawk",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.3.4.20260129-1."
+  },
+  {
+    "name": "Micrometer",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.15.12. Modul: micrometer-commons, micrometer-observation."
+  },
+  {
+    "name": "mount",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "ncurses-base",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 6.6+20251231-1."
+  },
+  {
+    "name": "ncurses-bin",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 6.6+20251231-1."
+  },
+  {
+    "name": "nimbus-jose-jwt",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 9.37.4."
+  },
+  {
+    "name": "openssl",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.5.5-1ubuntu3.7."
+  },
+  {
+    "name": "openssl-provider-legacy",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.5.5-1ubuntu3.7."
+  },
+  {
+    "name": "org.jacoco.agent",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 0.8.11."
+  },
+  {
+    "name": "p11-kit",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.26.2-2."
+  },
+  {
+    "name": "p11-kit-modules",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.26.2-2."
+  },
+  {
+    "name": "passwd",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:4.17.4-2ubuntu3."
+  },
+  {
+    "name": "perl-base",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 5.40.1-7ubuntu0.3."
+  },
+  {
+    "name": "pinentry-curses",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.3.2-3ubuntu1."
+  },
+  {
+    "name": "procps",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2:4.0.4-9ubuntu1."
+  },
+  {
+    "name": "readline-common",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 8.3-4."
+  },
+  {
+    "name": "rust-coreutils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.10.0-1ubuntu2~26.04.1."
+  },
+  {
+    "name": "sed",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 4.9-2ubuntu1."
+  },
+  {
+    "name": "sensible-utils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 0.0.26build1."
+  },
+  {
+    "name": "slf4j-api",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.18."
+  },
+  {
+    "name": "snakeyaml",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.4."
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.5.16. Modul: spring-boot, spring-boot-autoconfigure, spring-boot-starter, spring-boot-starter-data-jpa, spring-boot-starter-jdbc, spring-boot-starter-json, spring-boot-starter-log4j2, spring-boot-starter-mail, spring-boot-starter-tomcat, spring-boot-starter-web."
+  },
+  {
+    "name": "Spring Data",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.5.13. Modul: spring-data-commons, spring-data-jpa."
+  },
+  {
+    "name": "Spring Framework",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.2.19. Modul: spring-aop, spring-aspects, spring-beans, spring-context, spring-context-support, spring-core, spring-expression, spring-jcl, spring-jdbc, spring-orm, spring-tx, spring-web, spring-webmvc."
+  },
+  {
+    "name": "Spring Security",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.5.11. Modul: spring-security-crypto."
+  },
+  {
+    "name": "stdlib",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.27.3."
+  },
+  {
+    "name": "sysvinit-utils",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 3.15-5ubuntu1."
+  },
+  {
+    "name": "tar",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.35+dfsg-4ubuntu0.4."
+  },
+  {
+    "name": "tzdata",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2026e-0ubuntu0.26.04.1."
+  },
+  {
+    "name": "ubuntu-keyring",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2023.11.28.1build1."
+  },
+  {
+    "name": "unboundid-ldapsdk",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.0.5."
+  },
+  {
+    "name": "util-linux",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 2.41.3-3ubuntu2.2."
+  },
+  {
+    "name": "wget",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1.25.0-2ubuntu4.4."
+  },
+  {
+    "name": "zlib1g",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: 1:1.3.dfsg+really1.3.1-1ubuntu3.2."
+  }
+]
