@@ -1,0 +1,317 @@
+[
+  {
+    "name": "antlr4-runtime",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 4.13.2."
+  },
+  {
+    "name": "Apache Tomcat",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 10.1.55. Modul: tomcat-embed-core, tomcat-embed-el, tomcat-embed-websocket."
+  },
+  {
+    "name": "aspectjweaver",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.9.25.1."
+  },
+  {
+    "name": "bcprov-jdk18on",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.84."
+  },
+  {
+    "name": "byte-buddy",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.17.8."
+  },
+  {
+    "name": "commons-codec",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.15."
+  },
+  {
+    "name": "commons-csv",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.10.0."
+  },
+  {
+    "name": "commons-fileupload",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.6.0."
+  },
+  {
+    "name": "commons-io",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.14.0."
+  },
+  {
+    "name": "commons-lang3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.18.0."
+  },
+  {
+    "name": "commons-text",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.12.0."
+  },
+  {
+    "name": "Eclipse Angus (Jakarta Mail)",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.3, 2.0.5. Modul: angus-activation, jakarta.mail."
+  },
+  {
+    "name": "facade-schema",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.0.3."
+  },
+  {
+    "name": "github.com/canonical/go-flags",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230403090104-105d09a091b8."
+  },
+  {
+    "name": "github.com/canonical/pebble",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.33.3-0.20261021134118-f036f355de35."
+  },
+  {
+    "name": "github.com/canonical/x-go",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230522092633-7947a7587f5b."
+  },
+  {
+    "name": "github.com/GehirnInc/crypt",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.0.0-20230320061759-8cc1b52080c5."
+  },
+  {
+    "name": "github.com/gorilla/websocket",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.5.3."
+  },
+  {
+    "name": "golang.org/x/sys",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.48.0."
+  },
+  {
+    "name": "golang.org/x/term",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v0.46.0."
+  },
+  {
+    "name": "gopkg.in/tomb.v2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v2.0.0-20161208151619-d5d1b5820637."
+  },
+  {
+    "name": "gopkg.in/yaml.v2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v2.4.0."
+  },
+  {
+    "name": "gopkg.in/yaml.v3",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v3.0.1."
+  },
+  {
+    "name": "h2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.3.232."
+  },
+  {
+    "name": "Hibernate ORM",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.6.53.Final, 7.0.3.Final. Modul: hibernate-commons-annotations, hibernate-core."
+  },
+  {
+    "name": "HikariCP",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.3.3."
+  },
+  {
+    "name": "Jackson",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.7.3, 2.21, 2.21.5. Modul: classmate, jackson-annotations, jackson-bom, jackson-core, jackson-databind, jackson-datatype-jdk8, jackson-datatype-jsr310, jackson-module-parameter-names."
+  },
+  {
+    "name": "Jakarta EE",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.1, 2.1.1, 2.1.4, 3.1.0, 4.0.5. Modul: jakarta.activation-api, jakarta.annotation-api, jakarta.inject-api, jakarta.persistence-api, jakarta.transaction-api, jakarta.xml.bind-api."
+  },
+  {
+    "name": "jandex",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.2.0."
+  },
+  {
+    "name": "JAXB",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 4.0.9, 4.1.2. Modul: istack-commons-runtime, jaxb-core, jaxb-runtime, txw2."
+  },
+  {
+    "name": "jboss-logging",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.6.3.Final."
+  },
+  {
+    "name": "jcip-annotations",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.0-1."
+  },
+  {
+    "name": "json",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 20231013."
+  },
+  {
+    "name": "Log4j2",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.25.4. Modul: log4j-api, log4j-core, log4j-jul, log4j-slf4j2-impl."
+  },
+  {
+    "name": "Micrometer",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 1.15.12. Modul: micrometer-commons, micrometer-observation."
+  },
+  {
+    "name": "nimbus-jose-jwt",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 9.37.4."
+  },
+  {
+    "name": "org.jacoco.agent",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 0.8.11."
+  },
+  {
+    "name": "slf4j-api",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.0.18."
+  },
+  {
+    "name": "snakeyaml",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 2.4."
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.5.16. Modul: spring-boot, spring-boot-autoconfigure, spring-boot-starter, spring-boot-starter-data-jpa, spring-boot-starter-jdbc, spring-boot-starter-json, spring-boot-starter-log4j2, spring-boot-starter-mail, spring-boot-starter-tomcat, spring-boot-starter-web."
+  },
+  {
+    "name": "Spring Data",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 3.5.13. Modul: spring-data-commons, spring-data-jpa."
+  },
+  {
+    "name": "Spring Framework",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.2.19. Modul: spring-aop, spring-aspects, spring-beans, spring-context, spring-context-support, spring-core, spring-expression, spring-jcl, spring-jdbc, spring-orm, spring-tx, spring-web, spring-webmvc."
+  },
+  {
+    "name": "Spring Security",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.5.11. Modul: spring-security-crypto."
+  },
+  {
+    "name": "stdlib",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 1 project (my-app-image:1.0.0). Versi: v1.27.3."
+  },
+  {
+    "name": "unboundid-ldapsdk",
+    "ring": "Adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Dipakai di 2 project (my-app:1.0.0, myapp2.0:1.0.0). Versi: 6.0.5."
+  }
+]
